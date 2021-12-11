@@ -49,7 +49,7 @@ export const NewTransactionModal = ({
         type="button"
         onClick={onRequestClose}
       >
-        <img src={closeImg} alt="Fechal modal" />
+        <img src={closeImg} alt="Fechar modal" />
       </button>
 
       <Container onSubmit={handleCreateNewTransaction}>
